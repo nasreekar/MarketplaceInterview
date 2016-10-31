@@ -44,3 +44,13 @@ Please produce a document explaining how you might do this, including any restri
 Note that the important thing is your ideas and thinking and how you get them across, not the presentation / formatting of the document, so please don't worry unduly about this.
 
 Any questions about either part of this assignment, please don't hesitate to ask.  Good luck!
+
+**Update**
+
+New Shipping Option: 'ConditionalPerRegion'(ConditionalPerRegionShipping.cs)
+As of now implemented solution for reducing 50pence  to the newly added produce if there is a shipping option to same place and same supplier id(hardcoded in the code. can also be configured using xml). 
+Unit Tests are implemented to the new shipping option.
+
+*First implemented a function which reduces 0.5 on both the products.
+
+
